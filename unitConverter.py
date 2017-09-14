@@ -10,6 +10,6 @@ rate = int(input('Choose a Number:'))
 
 if rate=1:
     km = float(input('Enter number of kilometers:')
-    print(km,'Kilometers is',km*0.621371,
+    print(km,'Kilometers is',km*0.621371,'miles')
 
 
