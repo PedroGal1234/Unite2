@@ -3,7 +3,7 @@
 #adventure.py - tells oyu an adventure
 
 print('Always answer yes or no')
-answer1 = input('Your are in the midlle of the woods and there is a water fall do you go explore? ')
+answer1 = input('Your are in the middle of the woods and there is a water fall do you go explore? ')
 if answer1 == 'yes':
     answer2 = input('You sprint over and there is a tiger, do you run? ')
     if answer2 == 'yes':
