@@ -15,7 +15,7 @@ if answer1 == 'yes':
             print('You run and meet a hunter who shoots the tiger in the head, you live and you made a new friend')
     if answer2 == 'no':
         print('You punch the tiger in the head, and start fighting it')
-        answer4 = input('The tiger bites your arm, do you try to run? ')
+        answer4 = input('The tiger bites your arm off, do you try to run? ')
         if answer4 == 'yes':
             print('You try and run but the tiger bits your face off')
         if answer4 == 'no':
